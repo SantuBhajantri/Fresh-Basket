@@ -13,7 +13,19 @@ The Sales Manager can process the orders made by the customers and he can also v
 
 OUTPUT SCREENSHOTS:
 
-MAIN INDEX PAGE: ![image](https://user-images.githubusercontent.com/56960089/92088470-8c49d300-edea-11ea-8950-3ab6d18fe991.png)
+MAIN INDEX PAGE:
+![image](https://user-images.githubusercontent.com/56960089/92088470-8c49d300-edea-11ea-8950-3ab6d18fe991.png)
+
+OWNER LOGIN PAGE:
+
+•	ADMIN MODULE:
+
+•	PURCHASE MANAGER MODULE:
+
+•  SALES MANAGER MODULE:
+
+•  CUSTOMER MODULE:
+
 
    
 
