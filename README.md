@@ -10,3 +10,21 @@ Administrator can view farmers, vegetables, customers and he can also view the p
 The Purchase Manager can book the vegetables from the farmers and he can pay the amount to the farmers.
 
 The Sales Manager can process the orders made by the customers and he can also view all the orders.
+
+OUTPUT SCREENSHOTS:
+
+MAIN INDEX PAGE:
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
